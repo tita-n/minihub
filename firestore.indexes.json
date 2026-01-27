@@ -1,0 +1,24 @@
+[
+  {
+    "collectionGroup": "posts",
+    "fields": [
+      {
+        "fieldPath": "createdAt",
+        "order": "desc"
+      }
+    ]
+  },
+  {
+    "collectionGroup": "comments",
+    "fields": [
+      {
+        "fieldPath": "postId",
+        "order": "asc"
+      },
+      {
+        "fieldPath": "createdAt",
+        "order": "desc"
+      }
+    ]
+  }
+]
