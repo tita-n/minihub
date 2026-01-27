@@ -13,11 +13,6 @@
     "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "@firebase_messaging_sender_id",
     "NEXT_PUBLIC_FIREBASE_APP_ID": "@firebase_app_id"
   },
-  "functions": {
-    "src/app/api/**/*.ts": {
-      "maxDuration": 30
-    }
-  },
   "crons": [
     {
       "path": "/api/cron",
