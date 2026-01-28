@@ -6,12 +6,12 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_FIREBASE_API_KEY": "@firebase_api_key",
-    "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "@firebase_auth_domain",
-    "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "@firebase_project_id",
-    "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "@firebase_storage_bucket",
-    "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "@firebase_messaging_sender_id",
-    "NEXT_PUBLIC_FIREBASE_APP_ID": "@firebase_app_id"
+    "NEXT_PUBLIC_FIREBASE_API_KEY": "AIzaSyDGAya24xiMirGN_5IEGOw1gzzJz8nEL5o",
+    "NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN": "minihub-21cb5.firebaseapp.com",
+    "NEXT_PUBLIC_FIREBASE_PROJECT_ID": "minihub-21cb5",
+    "NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET": "minihub-21cb5.firebasestorage.app",
+    "NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "996514316028",
+    "NEXT_PUBLIC_FIREBASE_APP_ID": "1:996514316028:web:e150806e5bd0eea818e179"
   },
   "crons": [
     {
